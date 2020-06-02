@@ -1,0 +1,1 @@
+ES6 simple book list with Local Storage support!.
